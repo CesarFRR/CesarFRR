@@ -82,16 +82,13 @@
 
 * **Universidad Nacional de Colombia:** Ingeniería de Sistemas y Computación.
 * **Misión TIC 2022 (MinTIC & Universidad del Norte):** Programa de formación intensiva en desarrollo de software (800 horas totales), con énfasis en programación con Python, Java, desarrollo web (Flask, React) y fundamentos de cloud.
-    * [Ver Certificados de Misión TIC (sitio de validación)](https://tananeo.uninorte.edu.co/certificados/)
 * **Certificaciones MathWorks:**
     * MATLAB Onramp
     * Introduction to Linear Algebra with MATLAB
     * Optimization Onramp
-    * *(Estos certificados validan mis habilidades en computación numérica y optimización.)*
-
 ---
 
-### 📫 **Conectemos:**
+### 📫 **Contáctame:**
 
 <p align="left">
   Puedes encontrarme y conectar conmigo a través de:
