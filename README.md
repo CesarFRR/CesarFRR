@@ -80,7 +80,7 @@
 
 ### 🌱 **Educación y Certificaciones:**
 
-* **Universidad Nacional de Colombia:** Ingeniería de Sistemas y Computación.
+* **Universidad Nacional de Colombia:** Ingeniería de Sistemas y Computación (terminando carrera).
 * **Misión TIC 2022 (MinTIC & Universidad del Norte):** Programa de formación intensiva en desarrollo de software (800 horas totales), con énfasis en programación con Python, Java, desarrollo web (Flask, React) y fundamentos de cloud.
 * **Certificaciones MathWorks:**
     * MATLAB Onramp
