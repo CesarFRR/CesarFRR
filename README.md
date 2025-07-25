@@ -18,6 +18,16 @@
 
 ---
 
+### 📊 **Mi Actividad en GitHub:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CesarFRR&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFRR&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Top">
+</p>
+
+---
+
 ### 🚀 **Mis Áreas de Especialización:**
 
 <p align="left">
@@ -35,9 +45,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,js,ts,go" alt="Lenguajes de Programación Principales">
+    <img src="https://skillicons.dev/icons?i=py,java,js,go" alt="Lenguajes de Programación Principales">
   </a>
 </p>
+
 ---
 
 ### 🛠️ **Proyectos Destacados:**
@@ -59,26 +70,24 @@
     * [Ver Repositorio del Agente IA](https://github.com/CesarFRR/isi_tetris_ia)
 
 ---
+### 📊 **Logros y contribuciones:**
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=CesarFRR&no-frame=true&no-bg=true&margin-w=4&theme=radical" alt="Trofeos de GitHub">
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=CesarFRR&limit=5&combine_all_yearly_contributions=true&theme=radical" alt="Repositorios con Mayor Contribución">
+</p>
+---
 
 ### 🌱 **Educación y Certificaciones:**
 
 * **Universidad Nacional de Colombia:** Ingeniería de Sistemas y Computación.
-* **Misión TIC 2022 (MinTIC & Universidad del Norte):** Programa de formación intensiva en desarrollo de software (800 horas totales), con énfasis en programación con Python, Java, desarrollo web y fundamentos de cloud.
+* **Misión TIC 2022 (MinTIC & Universidad del Norte):** Programa de formación intensiva en desarrollo de software (800 horas totales), con énfasis en programación con Python, Java, desarrollo web (Flask, React) y fundamentos de cloud.
     * [Ver Certificados de Misión TIC (sitio de validación)](https://tananeo.uninorte.edu.co/certificados/)
 * **Certificaciones MathWorks:**
     * MATLAB Onramp
     * Introduction to Linear Algebra with MATLAB
     * Optimization Onramp
     * *(Estos certificados validan mis habilidades en computación numérica y optimización.)*
-
----
-
-### 📊 **Estadísticas de GitHub:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarFRR&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFRR&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Top">
-</p>
 
 ---
 
