@@ -95,7 +95,7 @@
 </p>
 
 - **LinkedIn:** [César Fabián Rincón Robayo](https://www.linkedin.com/in/CesarFRR)
-- **Email:** crinconro@unal.edu.co (o tu email preferido)
+- **Email:** crinconro@gmail.com
 
 ---
 
