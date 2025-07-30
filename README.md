@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy César Fabián Rincón Robayo 👋</h1>
 
-<h3 align="center">Desarrollador de Software | Ingeniero de Sistemas | Arquitecto de Software | Especialista en Cloud & IA</h3>
+<h3 align="center">Desarrollador de Software | Ingeniero de Sistemas | Arquitecto de Software </h3>
 
 ---
 
